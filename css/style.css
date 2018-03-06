@@ -17,7 +17,7 @@ a{
     font-size: 28px;
     font-weight: bold;
     left: calc(50% - 550px);
-    width: 100%;
+    width: 50%;
     margin-top: 5px;
     letter-spacing: 1px;
 }
@@ -50,6 +50,138 @@ a{
 .container{
     background-color: white;
     width:1100px;
-    height: 300px;
     margin: 0 auto;
+}
+.swiper-container{
+    width: 1100px;
+    height: 300px;
+}
+.swiper-title{
+    background-color: #015293;
+    position: absolute;
+    height: 24px;
+    width: 100%;
+    bottom: 0%;
+}
+.swiper-title p{
+    color: snow;
+    font-size: 18px;
+    margin:0 15px;
+}
+.column{
+    width: 1028px;
+    height: auto;
+    margin: 41px auto 0px;
+    background-color: white;
+}
+.column1{
+    float: left;
+    width: 350px;
+    height: auto;
+    border-right: 1px solid #bababa;
+}
+.column1_1{
+    width: 330px;
+    padding-top: 10px;
+}
+.column1_1 ul{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    list-style: none;
+    font-size: 18px;
+    line-height: 35px;
+    padding-left: 10px;
+}
+.column1_1 li{
+    padding-left: 10px;
+    background: url(../img/icon_10.jpg) no-repeat 0 18px;
+}
+
+.column1_biaoti{
+    font-size: 22px;
+    border-bottom: 1px solid #bababa;
+}
+.column1_biaoti a{
+    color: black;
+}
+.column1_tiao a{
+    color: black;
+}
+.column2{
+    float: left;
+    width: 350px;
+    height: auto;
+    margin-left: 30px
+}
+.column2_1{
+    width: 330px;
+    padding-top: 10px;
+}
+.column2_1 ul{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    list-style: none;
+    font-size: 18px;
+    line-height: 35px;
+    padding-left: 10px;
+}
+.column2_1 li{
+    padding-left: 10px;
+    background: url(../img/icon_10.jpg) no-repeat 0 18px;
+}
+
+.column2_biaoti{
+    font-size: 22px;
+    border-bottom: 1px solid #bababa;
+}
+.column2_biaoti a{
+    color: black;
+}
+.column2_tiao a{
+    color: black;
+}
+.column3{
+    float: right;
+    width: 285px;
+    height: auto;
+    background-color: #dcdcdd;
+}
+.column3_1{
+    width: 250px;
+    padding: 10px 13px 10px; 
+}
+.column3_1 ul{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    list-style: none;
+    font-size: 18px;
+    line-height: 35px;
+    padding-left: 10px;
+}
+.column3_1 li{
+    padding-left: 10px;
+    background: url(../img/icon_10.jpg) no-repeat 0 18px;
+}
+
+.column3_biaoti{
+    font-size: 22px;
+}
+.column3_biaoti a{
+    color: black;
+}
+.column3_tiao a{
+    color: black;
+    float: left;
+}
+.column3_tiao img{
+    width: 80px;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+#yuan{
+    float: left;
+    width: 120px;
+    text-align: center;
+    margin-bottom: 10px;
 }
