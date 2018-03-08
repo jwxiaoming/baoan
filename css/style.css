@@ -90,7 +90,7 @@ a{
     margin-top: 10px;
     margin-bottom: 25px;
     list-style: none;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 35px;
     padding-left: 10px;
 }
@@ -123,7 +123,7 @@ a{
     margin-top: 10px;
     margin-bottom: 25px;
     list-style: none;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 35px;
     padding-left: 10px;
 }
@@ -241,7 +241,7 @@ a{
 .base_content{
     background-color: white;
     width: 1100px;
-    height: 1000px;
+    height: 1160px;
     margin: -0px auto;
 }
 #weizhi{
@@ -255,12 +255,12 @@ a{
     color: black;
     padding-top: 60px;
     border-bottom: 1px solid #bababa;
-    width: 640px;
+    width: 650px;
     line-height: 0px;
     margin-left: 60px;
 }
 .base_list{
-    width: 640px;
+    width: 650px;
     margin-left: 60px;
 }
 .base_column1{
@@ -294,5 +294,75 @@ a{
 }
 .new_page li{
     float: left;
-    margin: 0 15px;
+    margin: 0 5px;
+    list-style: none;
+}
+.new_page li a{
+    border: 1px solid #b2b2b2;
+    color: #015092;
+    padding: 3px 8px;
+}
+.new_page li.on a{
+    border: 1px solid #b2b2b2;
+    color: #fff;
+    background-color: #0068b7;
+    padding: 3px 8px;
+}
+.page_content{
+    background-color: white;
+    width: 1100px;
+    height: auto;
+    margin: -0px auto;
+}
+.article{
+    padding: 10px 66px 38px 66px;
+}
+.article h1{
+    line-height: 56px;
+    font-size: 38px;
+    text-align: center;
+    padding: 26px 0 26px 0;
+}
+.page_weizhi{
+    font-size: 12px;
+    color: black;
+    margin: 0px 20px;
+    padding-top: 20px;
+    position: relative;
+}
+.page_data{
+    position: relative;
+    border-bottom: 1px #dcdcdc solid;
+    padding-top: 7px;
+    text-align: left;
+    color: #666666;
+    font-size: 14px;
+    height: 35px;
+}
+.page_zhengwen{
+    line-height: 30px;
+    margin: 0;
+    padding: 40px 0 40px 0;
+    font-size: 16px;
+}
+.back_top{
+    width: 48px;
+    height: 48px;
+    padding-top: 26px;
+    background: url(../img/backTop.jpg) no-repeat top center;
+    cursor: pointer;
+    position: fixed;
+    _position: absolute;
+    top: 85%;
+    left: 50%;
+    margin-left: 556px;
+}
+.back_top a{
+    display: block;
+    text-align: center;
+    background: #c1c1c1;
+    font-size: 16px;
+    color: #fff;
+    line-height: 20px;
+    padding: 4px 3px;
 }
