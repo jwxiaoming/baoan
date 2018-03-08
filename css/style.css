@@ -48,6 +48,10 @@ a{
     display: block;
     color: white;
 }
+.menu li a:hover{
+    display: block;
+    color: #dddddd;
+}
 .container{
     background-color: white;
     width:1100px;
@@ -109,6 +113,9 @@ a{
 .column1_tiao a{
     color: black;
 }
+.column1_tiao a:hover{
+    color: rgb(19, 81, 146);
+}
 .column2{
     float: left;
     width: 350px;
@@ -142,6 +149,9 @@ a{
 .column2_tiao a{
     color: black;
 }
+.column2_tiao a:hover{
+    color: rgb(19, 81, 146);
+}
 .column3{
     float: right;
     width: 285px;
@@ -174,6 +184,9 @@ a{
 .column3_tiao a{
     color: black;
     float: left;
+}
+.column3_tiao a:hover{
+    color: #6dacee;
 }
 .column3_tiao img{
     width: 80px;
@@ -250,6 +263,10 @@ a{
     margin: 20px 20px;
     position: absolute;
 }
+#weizhi a{
+    text-decoration: none;
+    color: black;
+}
 .base_biaoti{
     font-size: 22px;
     color: black;
@@ -271,6 +288,9 @@ a{
     color: #000;
     text-decoration: none;
     line-height: 34px;
+}
+.base_list a:hover{
+    color: #015092;
 }
 .data{
     padding-left: 14px;
