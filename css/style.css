@@ -9,12 +9,12 @@ a{
 .header{
     background-color: white;
     width: 100%;
-    height: 100px;
+    height: 130px;
 }
 .header_top{
     position: absolute;
-    color: #015293;
-    font-size: 28px;
+    color: #1a2388;
+    font-size: 36px;
     font-weight: bold;
     left: calc(50% - 550px);
     width: 50%;
@@ -22,13 +22,13 @@ a{
     letter-spacing: 1px;
 }
 #logo{
-    width: 60px;
+    width: 100px;
     float: left;
-    margin-top: 17px;
-    margin-right: 5px;
+    margin-top: 10px;
+    margin-right: 15px;
 }
 .nav{
-    background-color: #015293;
+    background-color: #1a2488;
     height: 80px;
     width: 100%;
 }
@@ -63,7 +63,7 @@ a{
     padding-top: 30px;
 }
 .swiper-title{
-    background-color: #015293;
+    background-color: #1a2488;
     position: absolute;
     height: 24px;
     width: 100%;
@@ -114,7 +114,7 @@ a{
     color: black;
 }
 .column1_tiao a:hover{
-    color: rgb(19, 81, 146);
+    color: #1a2488;
 }
 .column2{
     float: left;
@@ -150,7 +150,7 @@ a{
     color: black;
 }
 .column2_tiao a:hover{
-    color: rgb(19, 81, 146);
+    color: #1a2488;
 }
 .column3{
     float: right;
@@ -186,7 +186,7 @@ a{
     float: left;
 }
 .column3_tiao a:hover{
-    color: #6dacee;
+    color: #1a2488;
 }
 .column3_tiao img{
     width: 80px;
@@ -235,7 +235,7 @@ a{
     font-size: 16px;
 }
 .footer{
-    border-top: 8px solid #00558F;
+    border-top: 8px solid #1a2488;
     width: 1028px;
     margin: 0 auto;
     height: 160px;
@@ -290,7 +290,7 @@ a{
     line-height: 34px;
 }
 .base_list a:hover{
-    color: #015092;
+    color: #1a2488;
 }
 .data{
     padding-left: 14px;
