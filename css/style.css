@@ -22,17 +22,17 @@ a{
     margin-top: 5px;
     letter-spacing: 1px;
 }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 800px) {
     .header_top{
         position: absolute;
         color: #1a2388;
         font-size: 36px;
         font-weight: bold;
         left: calc(50% - 550px);
-        width: 100%;
+        width: 160%;
         margin-top: 5px;
         letter-spacing: 1px;
-        margin-left: 70px;
+        margin-left: 100%;
     }
 }
 #logo{
