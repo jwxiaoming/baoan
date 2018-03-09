@@ -742,7 +742,7 @@
 .button-raised.button-primary {
   border-color: #088ef0;
   background: -webkit-gradient(linear, left top, left bottom, from(#34a5f8), to(#088ef0));
-  background: linear-gradient(#25a3ff, #135192);
+  background: linear-gradient(#075cb3, #1a2588);
   .button-raised.button-primary:hover, .button-raised.button-primary:focus {
     background: -webkit-gradient(linear, left top, left bottom, from(#42abf8), to(#0888e6));
     background: linear-gradient(top, #42abf8, #0888e6); }
