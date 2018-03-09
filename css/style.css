@@ -12,6 +12,16 @@ a{
     height: 130px;
     min-width: 1100px;
 }
+.title{
+    position: absolute;
+    right: 11%;
+    top: 5.5%;
+}
+.title a{
+    color: #1b2587;
+    margin-right: 10px;
+    font-size: 14px;
+}
 .header_top{
     position: absolute;
     color: #1a2388;
@@ -78,7 +88,7 @@ a{
     padding-top: 30px;
 }
 .swiper-title{
-    background-color: #1a2488;
+    background-color: #00000054;
     position: absolute;
     height: 24px;
     width: 100%;
