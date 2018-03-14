@@ -10,9 +10,10 @@ a{
 }
 .header{
     background-color: #ffffffb8;
-    width: 100%;
+    width: 1100px;
     height: 130px;
     min-width: 1100px;
+    margin: 0 auto;
     margin-top: 100px;
 }
 .title{
@@ -31,8 +32,9 @@ a{
     font-size: 36px;
     font-weight: bold;
     left: calc(50% - 550px);
-    width: 100%;
+    width: 1100px;
     margin-top: 5px;
+    margin-left: 10px;
     letter-spacing: 1px;
 }
 @media screen and (max-width: 800px) {
@@ -57,8 +59,9 @@ a{
 .nav{
     background-color: #1a2488;
     height: 80px;
-    width: 100%;
+    width: 1100px;
     min-width: 1100px;
+    margin: 0 auto;
 }
 .menu{
     width: 1100px;
