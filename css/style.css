@@ -5,6 +5,7 @@ body{
     background-image: url(../img/bg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
 }
 a{
     text-decoration: none;
@@ -19,7 +20,7 @@ a{
 }
 .title{
     position: absolute;
-    right: 370px;
+    right: 380px;
     top: 140px;
 }
 .title a{
