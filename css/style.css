@@ -11,7 +11,7 @@ a{
     text-decoration: none;
 }
 .header{
-    background-color: #ffffffb8;
+    background-color: rgba(255, 255, 255, 0.8);
     width: 1100px;
     height: 130px;
     min-width: 1100px;
@@ -86,7 +86,7 @@ a{
     color: #dddddd;
 }
 .container{
-    background-color: #ffffffc4;
+    background-color: rgba(255, 255, 255, 0.8);
     width:1100px;
     margin: 0 auto;
 }
