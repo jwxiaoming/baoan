@@ -19,9 +19,13 @@ a{
     margin-top: 100px;
 }
 .title{
-    position: absolute;
+    /* position: absolute;
     right: 380px;
-    top: 140px;
+    top: 140px; */
+    width: 300px;
+    float: right;
+    margin-top: 50px;
+    margin-right: -90px;
 }
 .title a{
     color: #1b2587;
