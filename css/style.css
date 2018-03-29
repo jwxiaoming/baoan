@@ -1,11 +1,11 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(251, 89, 72);
     background-image: url(../img/bg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
