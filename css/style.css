@@ -280,7 +280,7 @@ a{
     height: 280px;
 }
 .footer_nav {
-    background-color:rgb(153, 208, 255);
+    background-color:rgb(209, 234, 255);
     width: 100%;
     height: 45px;
 }
@@ -338,7 +338,7 @@ a{
 }
 
 .footer li:hover{
-    background-color: rgb(153, 208, 255);
+    background-color: rgb(209, 234, 255);
 }
 
 .footer p{
