@@ -275,7 +275,7 @@ a{
 }
 .footer{
     border-top: 8px solid #1a2488;
-    width: 1028px;
+    width: 1002px;
     margin: 0 auto;
     height: 280px;
 }
@@ -286,7 +286,7 @@ a{
 }
 .footer_nav_btn {
     position: relative;
-    width: 256px;
+    width: 250px;
     float: left;
 }
 
@@ -362,7 +362,7 @@ a{
 .base_content{
     background-color: #ffffff;
     width: 1100px;
-    height: 1160px;
+    height: 1300px;
     margin: -0px auto;
 }
 #weizhi{
