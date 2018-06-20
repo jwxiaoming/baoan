@@ -45,7 +45,7 @@ $(document).ready(function(){
     console.warn('尾部已加载');
 
     //载入二维码
-    var qrcode = "<div style='position:fixed;right:2%;bottom:3%;text-shadow: 2px 1px 20px;'><img src='img/qrcode.jpg' style='width:120px;border-radius:10px;box-shadow: -1px 2px 11px #00000042;'><p style='font-size:12px;text-align:center;line-height:20px;color:white;letter-spacing:6px;margin:5 auto;'>扫描上方二维码<br>关注微信公众号</p></div>"
+    var qrcode = "<div style='position:fixed;right:2%;bottom:3%;text-shadow: 2px 1px 20px;'><img src='img/qrcode.jpg' style='width:120px;border-radius:10px;box-shadow: -1px 2px 11px #00000042;'><p style='font-size:12px;text-align:center;line-height:20px;color:white;letter-spacing:6px;margin:5 auto;'>扫描上方二维码<br>关注微信公众号</p></div><p style='position:absolute;top:0%;left:19%;font-size: 36px;color: #ffff00ba;'>专业&nbsp;&nbsp;责任&nbsp;&nbsp;服务&nbsp;&nbsp;交流&nbsp;&nbsp;创新</p>"
 
     $("body").append(qrcode);
 
